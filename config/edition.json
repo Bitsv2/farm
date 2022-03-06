@@ -4,9 +4,9 @@
   "homeTitle": "Bits V2",
   "farmPrimaryTitle": "Stake tokens to earn BitsV2",
   "farmSecondaryTitle": "",
-  "logoImage": "./images/networks/polygon-icon.png",
-  "tokenImage": "./images/networks/polygon-icon.png",
-  "homeStakingCardBackground": "./images/networks/polygon-icon.png",
+  "logoImage": "./images/networks/Bitslogo.png",
+  "tokenImage": "./images/networks/Bitslogo.png",
+  "homeStakingCardBackground": "./images/networks/bitslogo.png",
   "googleAnalytics": "",
   "priceLink": "https://polygon.poocoin.app/tokens/0x0939E9344D7f4d6143d4CF207423dDBc61254148",
   "socials": [
